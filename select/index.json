@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "十年 (OT: 明年今日)",
+  "base_artist": "陳奕迅",
+  "createdAt": "2026-02-14T10:01:01.947255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/01_十年_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/02_十年_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/03_十年_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/04_十年_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/05_十年_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/06_十年_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "十年 (國)",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/07_十年_(國)_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "十年 (國)",
+      "artist": "陳奕迅 - Eason Chan",
+      "has_synced": true,
+      "path": "select/08_十年_(國)_陳奕迅_-_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陈奕迅",
+      "has_synced": false,
+      "path": "select/09_十年_陈奕迅.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/10_十年_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "陳奕迅",
+      "has_synced": false,
+      "path": "select/11_十年_陳奕迅.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "孙露",
+      "has_synced": true,
+      "path": "select/12_十年_孙露.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "十年",
+      "artist": "刘德华",
+      "has_synced": true,
+      "path": "select/13_十年_刘德华.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Alfred Sim 沈志豪 最美的时光 电视剧 十年 你还好吗 主题曲_CBR_256k",
+      "artist": "YTD",
+      "has_synced": true,
+      "path": "select/14_Alfred_Sim_沈志豪_最美的时光_电视剧_十年_你还好吗_主题曲_CBR_256k_YTD.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "十年 - LIVE",
+      "artist": "Rene Liu",
+      "has_synced": true,
+      "path": "select/15_十年_-_LIVE_Rene_Liu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "十年 [國語]",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/16_十年_[國語]_陳奕迅.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十年",
+      "artist": "陳奕迅",
+      "has_synced": false,
+      "path": "select/pl_01_十年_陳奕迅.txt"
+    }
+  ]
+}
